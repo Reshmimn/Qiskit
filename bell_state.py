@@ -13,4 +13,4 @@ qc.cx(0, 1)
 pc.measure([0, 1], [0, 1])
 
 # Print the circuit
-print(qc)
+print(qc)		#TODO: Need to check!
